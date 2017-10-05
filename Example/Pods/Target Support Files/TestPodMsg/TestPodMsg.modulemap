@@ -1,0 +1,6 @@
+framework module TestPodMsg {
+  umbrella header "TestPodMsg-umbrella.h"
+
+  export *
+  module * { export * }
+}
